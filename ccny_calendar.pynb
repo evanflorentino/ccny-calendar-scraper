@@ -1,0 +1,5 @@
+# CCNY FALL 2021 Academic Calendar Scraper
+
+Purpose of this notebook is to scrape the CCNY FALL 2021 Academic Calendar using Requests,
+Beautifulsoup, and pandas.
+
